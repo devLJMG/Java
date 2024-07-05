@@ -40,19 +40,19 @@ public class atribuicao {
 
         //boolean simNao = numero1 == numero2;
 
-       System.out.println("O numero1 e igual oS:WQ
-        numero2? " + simNao);
+       // System.out.println("O numero1 e igual oS:WQ
+        //numero2? " + simNao);
 
-        boolean simNao = numero1 != numero2;
+        //boolean simNao = numero1 != numero2;
 
-       System.out.println("O numero1 e diferente do numero2? " + simNao);
+       // System.out.println("O numero1 e diferente do numero2? " + simNao);
 
-        boolean simNao = numero1 >= numero2;
+        //boolean simNao = numero1 >= numero2;
 
-        System.out.println("O numero1 e maior do que o numero2? " + simNao);
+        //System.out.println("O numero1 e maior do que o numero2? " + simNao);
 
-        boolean simNao = numero1 <= numero2;
+        //boolean simNao = numero1 <= numero2;
 
-        System.out.println("O numero1 e menor do que o numero2? " + simNao);
+        //System.out.println("O numero1 e menor do que o numero2? " + simNao);
     }
 }
